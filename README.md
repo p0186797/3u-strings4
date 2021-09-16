@@ -11,4 +11,4 @@ The same date in the form yyyy-dd-mm.
 31-03-1995
 
 # Output for Sample Input 1:
-1995-03-31
+1995-31-03
